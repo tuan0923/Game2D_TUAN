@@ -1,0 +1,47 @@
+//==================================================
+//
+// テクスチャのパス読み込み用ファイル [texPas.txt]
+// Author : SHUGO KURODA
+//
+//==================================================
+SCRIPT		# この行は消さないこと！
+
+//==================================================
+// テクスチャ最大数
+//==================================================
+TEX_NUM = 5
+
+//==================================================
+// テクスチャ読み込み情報
+//==================================================
+// タイトル床
+TEXSET
+	PAS = data/TEXTURE/floor000.png
+	NAME = TEX_TYPE_TITLE_FLOOR
+END_TEXSET
+
+// スコアUI
+TEXSET
+	PAS = data/TEXTURE/number000.png
+	NAME = TEX_TYPE_SCORE_UI
+END_TEXSET
+
+// ゲーム開始UI
+TEXSET
+	PAS = data/TEXTURE/Start000.png
+	NAME = TEX_TYPE_START_UI
+END_TEXSET
+
+// ゲーム終了UI
+TEXSET
+	PAS = data/TEXTURE/finish000.png
+	NAME = TEX_TYPE_END_UI
+END_TEXSET
+
+// ゲーム画面背景
+TEXSET
+	PAS = data/TEXTURE/sky000.jpg
+	NAME = TEX_TYPE_GAME_BG
+END_TEXSET
+
+END_SCRIPT		# この行は消さないこと！
