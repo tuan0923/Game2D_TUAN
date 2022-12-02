@@ -1,0 +1,28 @@
+﻿  title.cpp
+  time.cpp
+  score.cpp
+  result.cpp
+  player.cpp
+  main.cpp
+  item.cpp
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\item.cpp(144): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\item.cpp(145): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\item.cpp(146): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\item.cpp(147): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  input.cpp
+  howto.cpp
+  highscore.cpp
+  game.cpp
+  fade.cpp
+  explosion.cpp
+  enemy.cpp
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\enemy.cpp(140): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\enemy.cpp(141): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\enemy.cpp(142): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\enemy.cpp(143): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  block.cpp
+c:\users\student\documents\visual studio 2015\projects\btold\actiongame - コピー\block.cpp(120): warning C4101: 'nCntBlock': ローカル変数は 1 度も使われていません。
+  bg.cpp
+  コードを生成中...
+  ActionGame.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\BTOLD\ActionGame - コピー\ActionGame.exe
+  ActionGame.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\BTOLD\ActionGame - コピー\ActionGame.pdb (Full PDB)
